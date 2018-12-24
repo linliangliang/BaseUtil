@@ -31,3 +31,5 @@
 
 7、SharedPreferencesHelper：保存信息配置类
 8、HttpUtils ：网络请求的四种方法。
+9、添加了ImageUtil工具类，用于实现图片的压缩显示。
+11、添加cropUtil,实现图片的裁剪。
